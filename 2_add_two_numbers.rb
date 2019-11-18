@@ -1,5 +1,6 @@
 # Title: Add Two Numbers
 # Problem URL: https://leetcode.com/problems/add-two-numbers
+# Solution URL: https://leetcode.com/problems/add-two-numbers/discuss/419263/ruby-accepted-answer
 
 ###############
 # my solution
