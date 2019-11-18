@@ -1,2 +1,4 @@
 # LeetCode
-My solutions for LeetCode(https://leetcode.com/) Problems
+My solutions for LeetCode(https://leetcode.com/) problems.
+
+LeetCode account: https://leetcode.com/ayacai115/
