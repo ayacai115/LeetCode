@@ -27,6 +27,8 @@ def add_two_numbers(l1, l2)
   sum.digits
 end
 
+private
+
 def array_from_node(array: [], node: node)
   array << node.val
   if node.next
