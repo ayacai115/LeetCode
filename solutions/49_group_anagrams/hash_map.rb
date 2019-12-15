@@ -2,7 +2,7 @@
 # Problem URL: https://leetcode.com/problems/group-anagrams/
 # Solution URL: https://leetcode.com/problems/group-anagrams/solution/
 
-# Approach:
+# Approach: HashMap
 
 ###############
 # my solution
